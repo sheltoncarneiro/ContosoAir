@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/dp-us-bus/TrainingDemoShelton/_apis/build/status/sheltoncarneiro.ContosoAir?branchName=master)](https://dev.azure.com/dp-us-bus/TrainingDemoShelton/_build/latest?definitionId=47&branchName=master)
 
 
 # Microsoft.Github CI Demo
